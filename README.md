@@ -69,7 +69,7 @@ SMART-STUDENT-PERFORMANCE-ANALYSER/
 ├── validation.py
 ├── README.md
 └── requirements.txt
-└── requirements.txt
+
 
 ### File Description
 

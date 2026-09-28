@@ -69,35 +69,33 @@ SMART-STUDENT-PERFORMANCE-ANALYSER/
 ├── validation.py
 ├── README.md
 └── requirements.txt
+```
+
 ### File Description
 
-- `main.py` – Runs the main program and displays the final results.
-- `student.py` – Takes the student's details, subjects, and marks.
-- `analysis.py` – Contains functions used to analyse the student's marks.
-- `validation.py` – Checks whether the entered marks are valid.
-- `README.md` – Contains information about the project.
-- `requirements.txt` – Contains the project dependencies.
+* `main.py` - Runs the main program and displays the final results.
+* `student.py` - Takes the student's details, subjects, and marks.
+* `analysis.py` - Contains functions used to analyse the student's marks.
+* `validation.py` - Checks whether the entered marks are valid.
+* `README.md` - Contains information about the project.
+* `requirements.txt` - Contains the project dependencies.
+
 ## 7. Grade Criteria
 
 | Percentage | Grade |
 |---|---|
 | 90% and above | S |
-| 80%–89.99% | A |
-| 70%–79.99% | B |
-| 60%–69.99% | C |
-| 50%–59.99% | D |
-| 40%–49.99% | E |
+| 80%-89.99% | A |
+| 70%-79.99% | B |
+| 60%-69.99% | C |
+| 50%-59.99% | D |
+| 40%-49.99% | E |
 | Below 40% | F |
+
 ## 9. Validation
 
 The project includes validation for the marks entered by the user.
 
-The entered marks should:
-
-- Not be less than 0.
-- Not be greater than the maximum marks.
-
-This helps prevent invalid marks from being entered into the program.
 ## 10. Requirements
 
 - Python 3.x

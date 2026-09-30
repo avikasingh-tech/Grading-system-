@@ -56,7 +56,6 @@ The project uses the following Python concepts:
 - Dictionary methods
 - `len()`, `max()` and `min()`
 - Input validation
-- Modular programming
 
 ## 6. Project Structure
 
@@ -92,12 +91,3 @@ SMART-STUDENT-PERFORMANCE-ANALYSER/
 | 40%-49.99% | E |
 | Below 40% | F |
 
-## 9. Validation
-
-The project includes validation for the marks entered by the user.
-
-## 10. Requirements
-
-- Python 3.x
-- Visual Studio Code (recommended)
-- No external Python libraries are currently required.

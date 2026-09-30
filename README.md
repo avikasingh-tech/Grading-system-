@@ -1,4 +1,4 @@
-# Smart Student Performance Analyser
+# Student Performance Analyser
 
 ## 1. Overview
 
